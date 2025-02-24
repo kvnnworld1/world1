@@ -38,10 +38,9 @@ For more Info, please refer our Wiki.
 
 ### {kvnn's Account Storage
 
-**+15 Years** of RuneScape Farming.
+_**+15 Years** of RuneScape Farming._
 
-Playing with old-school knowledge & High Expertise.
-
-Daily Farmer, Levelling, Training for profit, Solo investing.
+_Playing with old-school knowledge & High Expertise._
+_Daily Farmer, Levelling, Training for profit, Solo investing._
 
 </footer>
