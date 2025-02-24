@@ -33,15 +33,7 @@ _Simple, Organic, Old School_
 
 For more Info, please refer our [Wiki](https://github.com/kvnnworld1/world1/wiki)
 
----
 
-### {kvnn's Account Storage
-
-_**+15 Years** of RuneScape Farming._
-
-_Playing with old-school knowledge & High Expertise._
-
-_Daily Farmer, Levelling, Training for profit, Solo investing._
 
 ---
 In terms of service, so you could get banned. 
