@@ -44,7 +44,7 @@ _Playing with old-school knowledge & High Expertise._
 _Daily Farmer, Levelling, Training for profit, Solo investing._
 
 ---
-- In terms of service, so you could get banned. 
-<br> This software doesn't come with any Liability or Warranty, I am not responsible if you do get banned.,0
-<br> Account sell and buy does violate terms of service
+In terms of service, so you could get banned. 
+<br> This software doesn't come with any Liability or Warranty, I am not responsible if you do get banned.
+<br> Account sell and buy does violate terms of service with third party softwares.
 </footer>
