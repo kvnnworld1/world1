@@ -29,7 +29,8 @@ _Simple, Organic, Old School_
 ---
 <br>❤️‍🔥 [Support us via PayPal](paypal.com/paypalme/kvnn1337)
 <br>🔗 [Chat with us on Discord](https://discord.gg/zKeN743a95)
- For more Info, please refer our Wiki.
+
+For more Info, please refer our Wiki.
 
 **What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
 
