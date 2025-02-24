@@ -9,7 +9,7 @@
 
 # withworld_1 🌐 by {kvnn
 
-Get started, Read this!
+Get started here
 
 </header>
 
@@ -24,10 +24,13 @@ Get started, Read this!
 ### Gaming Marketplace & Growth Advertise Zone Supported by Discord Community
 
 Welcome to withworld1 :wave:
+
 _Simple, Organic, Old School_
 
 **What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
-<br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+
+<br>❤️‍🔥 [Support us via](paypal.com/paypalme/kvnn1337)
+<br>🔗 [Chat with us on](https://discord.gg/zKeN743a95)
 
 **What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
 
