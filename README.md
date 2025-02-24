@@ -36,9 +36,12 @@ For more Info, please refer our Wiki.
 
 ---
 
-# {kvnn's :Runehelm: Account Storage
+# {kvnn's Account Storage
+
 **+15 Years** of RuneScape Farming.
+
 Playing with old-school knowledge & High Expertise.
+
 Daily Farmer, Levelling, Training for profit, Solo investing.
 
 </footer>
