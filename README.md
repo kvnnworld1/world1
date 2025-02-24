@@ -21,7 +21,7 @@ Get started, Read this!
   Encourage users to open new tabs for steps!
 -->
 
-## Gaming Marketplace & Growth Advertise Zone Supported by Discord Community
+### Gaming Marketplace & Growth Advertise Zone Supported by Discord Community
 
 Welcome to withworld1 :wave:
 _Simple, Organic, Old School_
