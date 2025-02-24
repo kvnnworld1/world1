@@ -41,6 +41,7 @@ For more Info, please refer our Wiki.
 _**+15 Years** of RuneScape Farming._
 
 _Playing with old-school knowledge & High Expertise._
+
 _Daily Farmer, Levelling, Training for profit, Solo investing._
 
 </footer>
