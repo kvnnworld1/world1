@@ -9,7 +9,7 @@
 
 # withworld_1 🌐 by {kvnn
 
-Get started here
+<br>Welcome to withworld1 :wave:
 
 </header>
 
@@ -23,7 +23,6 @@ Get started here
 
 ### Gaming Marketplace & Growth Advertise Zone Supported by Discord Community
 
-Welcome to withworld1 :wave:
 
 _Simple, Organic, Old School_
 
