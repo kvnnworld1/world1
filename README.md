@@ -9,7 +9,7 @@
 
 # withworld_1 🌐 by {kvnn
 
-<br>Welcome to withworld1 :wave:
+_<br>software & marketing programs_
 
 </header>
 
@@ -21,10 +21,10 @@
   Encourage users to open new tabs for steps!
 -->
 
-### Gaming Marketplace & Growth Advertise Zone Supported by Discord Community
+### Growth Zone, Promote and Advertise Supported by Discord Community
+___Gaming Marketplace___
 
-
-_Simple, Organic, Old School_
+_Simple, Organic, Old School.._
 
 
 ---
