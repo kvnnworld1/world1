@@ -39,4 +39,11 @@ For more Info, please refer our [Wiki](https://github.com/kvnnworld1/world1/wiki
 In terms of service, so you could get banned. 
 <br> This software doesn't come with any Liability or Warranty, I am not responsible if you do get banned.
 <br> Account sell and buy does violate terms of service with third party softwares.
+
+### Why us?
+- We delivery instant high-quality of products.
+<br>We are currently building a **world one** Discord Community for Marketing & Gaming.
+<br>Promote & Advertise your projects here at **withworld1**.
+
+**Buy & Sell** RS Accounts at Kvnn's Account Storage.
 </footer>
